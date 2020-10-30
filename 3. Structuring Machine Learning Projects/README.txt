@@ -1,1 +1,1 @@
-No programming exercises here! Only theories.
+*No programming exercises here! Only theories.*
